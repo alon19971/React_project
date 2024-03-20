@@ -14,7 +14,6 @@ WorldExplorer is an interactive web application designed to bring the rich diver
 ## Technologies Used
 
 - React.js for the frontend UI.
-- Node.js and Express for the backend server (if applicable).
 - RESTful APIs for fetching country data.
 - Bootstrap and custom CSS for styling.
 
