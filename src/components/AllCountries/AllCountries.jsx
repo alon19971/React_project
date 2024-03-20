@@ -82,7 +82,7 @@
           <h3>{country.name.common}</h3>
         </div>
       </Link>
-    ))}
+    ))};
   </div>
 </div>
 
