@@ -1,4 +1,4 @@
-# Project Name: WorldExplorer
+# WorldExplorer
 
 ## Introduction
 
